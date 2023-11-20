@@ -5,5 +5,5 @@
   <img height="50px" src="media/nextjs.svg"/>
   <img height="50px" src="media/python.svg"/>
   <img height="50px" src="media/telegram.svg"/>
-  <img height="50px" width="100%" src="media/discord.svg"/>
+  <img height="50px" src="media/discordjs.svg"/>
 </div>
